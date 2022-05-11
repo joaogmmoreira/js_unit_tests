@@ -14,4 +14,3 @@
 const average = () => {};
 
 module.exports = average;
-//comit
